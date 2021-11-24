@@ -2,7 +2,7 @@
 
 - Authur: <a href="https://github.com/Hyeju1996">Hyeju Hong </a>
 - instructor: <a href="https://github.com/lilyx13">Ashlyn knox</a>
-- depolyed: <a href="https://jovial-williams-86f351.netlify.app">netify</a>
+- depolyed: <a href="https://jovial-williams-86f351.netlify.app">netify</a> & <a href="https://github.com/Hyeju1996/cpnt200-a3">GitHub Repo</a>
 
 #coding:
 
