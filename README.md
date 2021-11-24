@@ -1,5 +1,15 @@
 # a3
 
+- Authur: <a href="https://github.com/Hyeju1996">Hyeju Hong </a>
+- instructor: <a href="https://github.com/lilyx13">Ashlyn knox</a>
+- depolyed: <a href="https://jovial-williams-86f351.netlify.app">netify</a>
+
+#coding:
+
+[x] files set up
+
+how I did : I failed website and I keep trying to figure it out what the problem. 
+
 ## Build Setup
 
 ```bash
